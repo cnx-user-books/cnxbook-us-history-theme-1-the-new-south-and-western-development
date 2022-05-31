@@ -1,0 +1,45 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Native American Graphic Organizer</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>cd05c57b-3997-4f52-bb6e-fa694b432a07</md:uuid>
+</metadata>
+  <content>
+    <para id="id10966016">conflict with native americans</para>
+    <para id="id6374046">American expansion onto Native American lands led to many wars and the near destruction of western Native American nations.</para>
+    <section id="id9899270">
+      <para id="id10532448">The Sioux Wars</para>
+      <table id="id10451338" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>1865</entry>
+              <entry>Federal government decides to build a road through Sioux territory. Sioux warriors resist violently, sparking First Sioux War.</entry>
+            </row>
+            <row>
+              <entry>1868</entry>
+              <entry>First Sioux War ends. Sioux agree to live on reservation in Dakota Territory.</entry>
+            </row>
+            <row>
+              <entry>1875</entry>
+              <entry>Federal government allows miners to search for gold on Sioux reservation. Second Sioux War begins. Chief Sitting Bull leads many Sioux off the reservation.</entry>
+            </row>
+            <row>
+              <entry>1876</entry>
+              <entry>At the Battle of Little Bighorn, Sitting Bull's warriors destroy American army led by General Custer. In response, federal government sends more troops to the region. Most Sioux agree to return to reservation.</entry>
+            </row>
+            <row>
+              <entry>1890</entry>
+              <entry>At the Massacre of Wounded Knee, American soldiers open fire on unarmed Sioux, killing 200.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id10329064">
+      <para id="para-id10329064">
+<!--0 Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+  </content>
+</document>
